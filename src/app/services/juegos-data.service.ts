@@ -86,4 +86,20 @@ export class JuegosDataService {
       )
     );
   }
+  getJuegosPorPrecio(limite: number = 2): Observable<Juego[]>{
+    return this.juegos$.pipe(
+      map(juegos => [...juegos]
+        .sort((a,b) => b.id * a.precio)
+        .slice(0, limite)
+      )  
+    );
+  }
+  getEstadisticas(limite: number = 0): Observable<Juego[]>{
+    return this.juegos$.pipe(
+      map(juegos => [...juegos]
+        .sort((a,b) => b.id * a.precio)
+        .slice(0, limite)
+      )  
+    );
+  }
 }

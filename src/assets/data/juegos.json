@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Fortnite",
-      "imagen": "https://cdn2.unrealengine.com/fortnite-og-social-share-1920x1080-685342852.jpg",
+      "imagen": "https://i.blogs.es/844234/fortnite/1366_2000.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "Epic Games",
       "fechaLanzamiento": "2017-07-25",
@@ -107,7 +107,7 @@
     {
       "id": 4,
       "nombre": "Valorant",
-      "imagen": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f072336e3f3ade4/63096d7be4a8c30e088e7720/Valorant_2022_E5A2_PlayVALORANT_ContentStackThumbnail_1200x625_MB01.png",
+      "imagen": "https://fondosmil.co/fondo/54286.jpg",
       "categoria": "FPS",
       "desarrollador": "Riot Games",
       "fechaLanzamiento": "2020-06-02",
@@ -133,8 +133,8 @@
         }
       },
       "screenshots": [
-        "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5e9e7e7e7e7e7e7e/valorant-screenshot-1.jpg",
-        "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6e7e7e7e7e7e7e7e/valorant-screenshot-2.jpg"
+        "https://fondosmil.co/fondo/54377.jpg",
+        "https://thetainimtoday.com/wp-content/uploads/2020/06/PORTADA-CONFIGURACI%C3%93N-VALORANT.jpg"
       ],
       "tags": ["Competitivo", "Táctico", "Multijugador", "eSports"]
     },
@@ -515,7 +515,7 @@
     {
       "id": 16,
       "nombre": "Gran Turismo 7",
-      "imagen": "https://play-lh.googleusercontent.com/Qxcg8RNAS9l_VUxHNPifSKHq0FRCPaVZCETd1jUPxFPf0fBBKEEtQZsJx2fH-K1yFg",
+      "imagen": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_084f98c4b0bd4811998f02679f684dbe.webp",
       "categoria": "Sports",
       "desarrollador": "Polyphony Digital",
       "fechaLanzamiento": "2022-08-15",
@@ -541,10 +541,44 @@
         }
       },
       "screenshots": [
-        "https://play-lh.googleusercontent.com/screenshot1.jpg",
-        "https://play-lh.googleusercontent.com/screenshot2.jpg"
+        "https://www.gtplanet.net/wp-content/uploads/2024/09/image-2-2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6fSnuAj-g2zvSHfNvpMAzykIqNMDIAs2lQ&s"
       ],
-      "tags": ["MOBA", "Mobile", "5v5", "Estrategia"]
+      "tags": ["Carreras", "PC", "Velocidad", "Multijugador"]
+    },
+    {
+      "id": 17,
+      "nombre": "The Legends of Zelda: BOTW",
+      "imagen": "https://media.wired.com/photos/633c95ef85e7a4cc2f802256/3:2/w_2400,h_1600,c_limit/Breath-of-the-Wild-Casual-Gamer-Culture.jpg",
+      "categoria": "Adventure",
+      "desarrollador": "Nintendo EPD",
+      "fechaLanzamiento": "2017-03-17",
+      "descripcion": "The Legend of Zelda: Breath of the Wild es un videojuego de acción-aventura de 2017 de la serie The Legend of Zelda, desarrollado por la filial Nintendo EPD en colaboración con Monolith Soft y publicado por Nintendo para las consolas Wii U y Nintendo Switch.​",
+      "rating": 4.9,
+      "plataformas": ["Nintendo Switch"],
+      "precio": 59.99,
+      "esGratis": true,
+      "requisitos": {
+        "minimos": {
+          "os": "Switch",
+          "procesador": "switch",
+          "memoria": "8 GB RAM",
+          "graficos": "",
+          "almacenamiento": "100 GB"
+        },
+        "recomendados": {
+          "os": "Switch",
+          "procesador": "switch",
+          "memoria": "16 GB RAM",
+          "graficos": "",
+          "almacenamiento": "256 GB"
+        }
+      },
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEd2v5oyVrK13QT0NVWkoZ1m3osx4dKKDrA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7wHl6AXySGxyt3LgLEX41SkwCe_GffWwCgtPrRfw2tu6_5mqoRfh6xLsnXLbFR4tMHI&usqp=CAU"
+      ],
+      "tags": ["Aventura", "Consola", "Historia", "Multijugador"]
     }
   ],
   "categorias": [
@@ -589,6 +623,13 @@
       "icono": "bi-trophy",
       "descripcion": "Juegos deportivos con simulación realista de diferentes disciplinas",
       "color": "#4ecdc4"
+    },
+    {
+      "id": "adventure",
+      "nombre": "adventure",
+      "icono": "bi-compass",
+      "descripcion": "Juegos de aventura y exploración con narrativas épicas",
+      "color": "#9b59b6"
     }
   ]
 }
