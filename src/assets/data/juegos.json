@@ -29,8 +29,8 @@
         }
       },
       "screenshots": [
-        "https://cdn2.unrealengine.com/fortnite-screen-01-1920x1080-685342852.jpg",
-        "https://cdn2.unrealengine.com/fortnite-screen-02-1920x1080-685342852.jpg"
+        "https://cdn2.unrealengine.com/fortnite-disney-star-wars-all-1920x1080-296e87fd5954.jpg",
+        "https://cdn-0001.qstv.on.epicgames.com/SpeuoUpokQzgOVLpEs/image/landscape_comp.jpeg"
       ],
       "trailer": "https://www.youtube.com/watch?v=WJW-bzXZM8M",
       "tags": ["Multijugador", "Online", "Construcción", "Supervivencia"]
@@ -141,7 +141,7 @@
     {
       "id": 5,
       "nombre": "Genshin Impact",
-      "imagen": "https://genshin.hoyoverse.com/_nuxt/img/home-poster-5th.59eb9e9.jpg",
+      "imagen": "https://wallpapers.com/images/featured/genshin-impact-wlq3ykrxbaoadjow.jpg",
       "categoria": "RPG",
       "desarrollador": "miHoYo",
       "fechaLanzamiento": "2020-09-28",
@@ -167,15 +167,15 @@
         }
       },
       "screenshots": [
-        "https://genshin.hoyoverse.com/content/media/image/screenshot1.jpg",
-        "https://genshin.hoyoverse.com/content/media/image/screenshot2.jpg"
+        "https://www.tuexpertomovil.com/wp-content/uploads/2021/08/genshin-impact.jpg",
+        "https://media.vandal.net/m/81146/genshin-impact-20209289471218_1.jpg.webp"
       ],
       "tags": ["Aventura", "Anime", "Mundo Abierto", "Gacha"]
     },
     {
       "id": 6,
       "nombre": "FIFA 24",
-      "imagen": "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/images/2023/07/fc24-ultimate-edition-standard-kylian-mbappe.jpg.adapt.crop16x9.1455w.jpg",
+      "imagen": "https://i.blogs.es/f83ad0/fifa24/1366_2000.jpeg",
       "categoria": "Sports",
       "desarrollador": "EA Sports",
       "fechaLanzamiento": "2023-09-29",
@@ -201,15 +201,15 @@
         }
       },
       "screenshots": [
-        "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/screenshots/screenshot1.jpg",
-        "https://media.contentapi.ea.com/content/dam/ea/fc/fc-24/screenshots/screenshot2.jpg"
+        "https://sm.ign.com/ign_latam/photo/e/ea-sports-/ea-sports-confirms-fc-24-nintendo-switch-framerate-and-resol_7tyt.jpg",
+        "https://i.blogs.es/05069e/1366_2000-17-/840_560.jpeg"
       ],
       "tags": ["Fútbol", "Deportes", "Multijugador", "Simulación"]
     },
     {
       "id": 7,
       "nombre": "Free Fire",
-      "imagen": "https://ffwebsite.garena.com/id/wp-content/uploads/sites/12/2021/12/thumb.jpg",
+      "imagen": "https://wallpapers.com/images/featured/4k-free-fire-8bh4bpve4raxr2ll.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "Garena",
       "fechaLanzamiento": "2017-12-08",
@@ -235,8 +235,8 @@
         }
       },
       "screenshots": [
-        "https://ffwebsite.garena.com/screenshots/screenshot1.jpg",
-        "https://ffwebsite.garena.com/screenshots/screenshot2.jpg"
+        "https://imgmedia.larepublica.pe/1200x630/larepublica/original/2021/12/13/61b7558fbe4dc64cb7388e35.jpg",
+        "https://pm1.aminoapps.com/6864/7619d4cb5f40873d7b0f39859ceb7464084be577r1-1022-592v2_hq.jpg"
       ],
       "tags": ["Mobile", "Battle Royale", "Supervivencia", "Shooter"]
     },
@@ -277,7 +277,7 @@
     {
       "id": 9,
       "nombre": "Counter-Strike 2",
-      "imagen": "https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/header.png",
+      "imagen": "https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/social/cs2.jpg",
       "categoria": "FPS",
       "desarrollador": "Valve",
       "fechaLanzamiento": "2023-09-27",
@@ -303,15 +303,15 @@
         }
       },
       "screenshots": [
-        "https://cdn.cloudflare.steamstatic.com/apps/csgo/images/screenshot1.jpg",
-        "https://cdn.cloudflare.steamstatic.com/apps/csgo/images/screenshot2.jpg"
+        "https://i.blogs.es/c85832/cs-2-fps-portada/500_333.jpeg",
+        "https://tecnogaming.com/wp-content/uploads/2023/09/Counter-Strike-2.jpg"
       ],
       "tags": ["Competitivo", "Táctico", "eSports", "Clásico"]
     },
     {
       "id": 10,
       "nombre": "Apex Legends",
-      "imagen": "https://media.contentapi.ea.com/content/dam/apex-legends/common/articles/apex-legends-ignite-launch/apex-section-bg-xl.jpg.adapt.1920w.jpg",
+      "imagen": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000024591/335050bb1616a679bc49a7ad690aa325f80014190677239c9250775789807114",
       "categoria": "Battle Royale",
       "desarrollador": "Respawn Entertainment",
       "fechaLanzamiento": "2019-02-04",
@@ -337,15 +337,15 @@
         }
       },
       "screenshots": [
-        "https://media.contentapi.ea.com/content/dam/apex-legends/screenshot1.jpg",
-        "https://media.contentapi.ea.com/content/dam/apex-legends/screenshot2.jpg"
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/13eb1c6837c8eb4a0cb016915d00c5bc94f8d5eb/ss_13eb1c6837c8eb4a0cb016915d00c5bc94f8d5eb.1920x1080.jpg?t=1746554828",
+        "https://s2-techtudo.glbimg.com/ke1viF14qcVyZ5aqG_gxramH52w=/0x0:1147x645/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/Q/h/WOnV4MQT2gKS4nQ0FHCA/image-9-.jpg"
       ],
       "tags": ["Heroes", "Battle Royale", "Shooter", "Equipo"]
     },
     {
       "id": 11,
       "nombre": "PUBG Mobile",
-      "imagen": "https://www.pubgmobile.com/images/event/home/pubgm_home_bg.jpg",
+      "imagen": "https://www.movilzona.es/app/uploads-movilzona.es/2022/07/pubg-mobile-apertura.jpg",
       "categoria": "Battle Royale",
       "desarrollador": "PUBG Corporation",
       "fechaLanzamiento": "2018-03-19",
@@ -371,8 +371,8 @@
         }
       },
       "screenshots": [
-        "https://www.pubgmobile.com/images/screenshot1.jpg",
-        "https://www.pubgmobile.com/images/screenshot2.jpg"
+        "https://play-lh.googleusercontent.com/qC2m5tGDjmDwhqtN9PB0UATCgiKgntD4m6oxOpnZI5fHo-P7RQ1m1Ft1VouxQrDihdkN=w648-h364-rw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlnYxtfuSTS-nkqqok4JvlDdHxMFjg5IDlq5l4DF5UAnb4C4sWnrujU9YyqJ0yYQP5bcA&usqp=CAU"
       ],
       "tags": ["Mobile", "Battle Royale", "Supervivencia", "Realista"]
     },
@@ -447,7 +447,7 @@
     {
       "id": 14,
       "nombre": "NBA 2K24",
-      "imagen": "https://nba2k24.2k.com/assets/images/nba2k24-kobe-bg.jpg",
+      "imagen": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/07/07/16887385674566.jpg",
       "categoria": "Sports",
       "desarrollador": "Visual Concepts",
       "fechaLanzamiento": "2023-09-08",
@@ -473,15 +473,15 @@
         }
       },
       "screenshots": [
-        "https://nba2k24.2k.com/assets/images/screenshot1.jpg",
-        "https://nba2k24.2k.com/assets/images/screenshot2.jpg"
+        "https://i.ytimg.com/vi/zhz2GBynduo/maxresdefault.jpg",
+        "https://staticg.sportskeeda.com/editor/2023/05/fe4b2-16835707997584-1920.jpg"
       ],
       "tags": ["Baloncesto", "Deportes", "Simulación", "MyCAREER"]
     },
     {
       "id": 15,
       "nombre": "Mobile Legends",
-      "imagen": "https://play-lh.googleusercontent.com/Qxcg8RNAS9l_VUxHNPifSKHq0FRCPaVZCETd1jUPxFPf0fBBKEEtQZsJx2fH-K1yFg",
+      "imagen": "https://play-lh.googleusercontent.com/QXCVbZd0d71ho4MIYHHxnY6BJFGXI-fzRS5MXJXU1n4n2T-VdQgB1vrdJpydokA34UA",
       "categoria": "MOBA",
       "desarrollador": "Moonton",
       "fechaLanzamiento": "2016-07-14",
@@ -507,8 +507,8 @@
         }
       },
       "screenshots": [
-        "https://play-lh.googleusercontent.com/screenshot1.jpg",
-        "https://play-lh.googleusercontent.com/screenshot2.jpg"
+        "https://www.exitlag.com/blog/wp-content/uploads/2025/01/Mobile-Legends-PC_-play-MLBB-on-PC-with-this-complete-emulator-guide.webp",
+        "https://play-lh.googleusercontent.com/aEM0_GN3yrZXzVmaAQRfBmotK22bMSr0v1Xvl55gRJ3M_buhQz4T7zi0ZmpkM0LToiI=w526-h296-rw"
       ],
       "tags": ["MOBA", "Mobile", "5v5", "Estrategia"]
     },
@@ -523,7 +523,7 @@
       "rating": 4.5,
       "plataformas": ["PlayStation", "PC"],
       "precio": 69.99,
-      "esGratis": true,
+      "esGratis": false,
       "requisitos": {
         "minimos": {
           "os": "Windows 10",
@@ -557,7 +557,7 @@
       "rating": 4.9,
       "plataformas": ["Nintendo Switch"],
       "precio": 59.99,
-      "esGratis": true,
+      "esGratis": false,
       "requisitos": {
         "minimos": {
           "os": "Switch",

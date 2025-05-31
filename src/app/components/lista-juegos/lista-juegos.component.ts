@@ -18,6 +18,9 @@ import { FiltrosComponent } from '../filtros/filtros.component';
 export class ListaJuegosComponent implements OnInit {
   juegos$!: Observable<Juego[]>;
   juegosFiltrados$!: Observable<Juego[]>;
+  criterioOrden: string = '';
+  juegos: Juego[] = [];
+  juegosFiltrados: Juego[] = [];
   
   private filtrosSubject = new BehaviorSubject<any>({
     busqueda: '',
@@ -127,4 +130,22 @@ export class ListaJuegosComponent implements OnInit {
       categoria: this.categoriaSeleccionada
     });
   }
+  ordenarJuegos(): void {
+  switch (this.criterioOrden) {
+    case 'nombre-asc':
+      this.juegosFiltrados.sort((a, b) => a.nombre.localeCompare(b.nombre));
+      break;
+    case 'nombre-desc':
+      this.juegosFiltrados.sort((a, b) => b.nombre.localeCompare(a.nombre));
+      break;
+    case 'precio-asc':
+      this.juegosFiltrados.sort((a, b) => a.precio - b.precio);
+      break;
+    case 'precio-desc':
+      this.juegosFiltrados.sort((a, b) => b.precio - a.precio);
+      break;
+    default:
+      break;
+  }
+}
 }
